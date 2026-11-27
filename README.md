@@ -70,7 +70,7 @@ A file's path is *name + suffix*. Both indexes count in 4-byte units from the st
 
 ## Related
 
-[sr2006-music-rip](../sr2006-music-rip) rips the game's sequenced music (the tracks that are not ADX streams) to a PSF2 set, MIDI files and samples.
+[sr2006-music-rip](https://github.com/JustMLC4real/sr2006-music-rip) rips the game's sequenced music (the tracks that are not ADX streams) to a PSF2 set, MIDI files and samples.
 
 ## Legal
 
