@@ -72,6 +72,8 @@ A file's path is *name + suffix*. Both indexes count in 4-byte units from the st
 
 [sr2006-music-rip](https://github.com/JustMLC4real/sr2006-music-rip) rips the game's sequenced music (the tracks that are not ADX streams) to a PSF2 set, MIDI files and samples.
 
-## Legal
+## License and legal
 
-This tool only reads files you already have. The extracted data belongs to Sega; do not redistribute it.
+The code in this repository is released under the [MIT License](LICENSE).
+
+This tool only reads files you already have. The extracted data belongs to Sega; do not redistribute it. Sega Rally is a trademark of Sega; this project is not affiliated with Sega.
