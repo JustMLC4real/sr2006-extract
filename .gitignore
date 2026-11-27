@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+
+# Game data and extracted files never go into this repository
+extracted/
+DATA.FAI
+DATA.FAB
